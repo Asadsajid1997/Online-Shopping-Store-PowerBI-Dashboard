@@ -1,4 +1,4 @@
-# Online Shopping Store PowerBI Dashboard
+# Online Shopping Store - PowerBI Dashboard
 
 
 Welcome to our PowerBI Online Shopping Store Sales Dashboard, where data analytics meets fun!
